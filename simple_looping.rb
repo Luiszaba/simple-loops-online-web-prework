@@ -1,5 +1,5 @@
 
-def loop_iterator(number_of_times)
+def loop_iterator(7)
   phrase = "Welcome to Flatiron School's Web Development Course!"
   puts phrase
   counter = 0
